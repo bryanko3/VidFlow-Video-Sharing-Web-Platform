@@ -53,7 +53,7 @@ VidFlow follows a **modular MVC-inspired architecture**, separating logic and fu
 ### Backend
 - Python (Flask)
 - SQLite
-- RESTful API
+- RESTful API (Partially)
 
 ### Frontend
 - HTML / CSS / JavaScript
