@@ -98,7 +98,7 @@ VidFlow/
 ## Installation
 
 ```bash
-git clone https://github.com/bryanko3/VidFlow.git
+git clone https://github.com/bryanko3/VidFlow-Video-Sharing-Web-Platform.git
 cd VidFlow
 pip install -r requirements.txt
 python app.py
