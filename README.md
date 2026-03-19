@@ -21,7 +21,7 @@
 
 ## Project Preview
 
-### Home Feed
+### Home Page
 ![Home](./screenshots/home.png)
 
 ### Login Page
@@ -30,16 +30,16 @@
 ### Register Page
 ![Register](./screenshots/register.png)
 
-### Video Player
+### Video Player Page
 ![Watch](./screenshots/watch.png)
 
-### Search Results
+### Search Results Page
 ![Search](./screenshots/search.png)
 
-### User Profile
+### User Profile Page
 ![Profile](./screenshots/profile.png)
 
-### Upload Interface
+### Upload Page
 ![Upload](./screenshots/upload.png)
 
 ---
