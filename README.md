@@ -144,7 +144,7 @@ python app.py
 
 ## Why VidFlow?
 
-VidFlow was created to simulate a **real-world content platform** and push the limits of full-stack web development.  
+VidFlow was created as a **real-world content platform** and push the limits of simple video-sharing web development.  
 It showcases scalability, feature depth, and hands-on media engineering experience.
 
 ---
