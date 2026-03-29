@@ -66,7 +66,7 @@ VidFlow follows a **modular MVC-inspired architecture**, separating logic and fu
 
 ## Project Structure
 
-VidFlow/
+VidFlow-Video-Sharing-Web-Platform/
 
 │── app.py
 
